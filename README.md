@@ -8,4 +8,4 @@ The size of the dot is 15 and the distance between dots is 50. The total dots ar
 
 
 The outcome of the modelling is shown here!
-![Hirst Painting](Capture.PNG)
+![](hirst.gif)![Hirst Painting](Capture.PNG)
